@@ -5,3 +5,5 @@ Om molnet så är det en stor server som lagrar data och program istället för på e
 Det jag tycker att det är spännande att lära sig om dator och programering. Det som kan vara svårt är att förstå c# språket.
 Att jobba i team är att sammarbeta med andra och gör sina uppgifter i teamet.
 Det som var mest intressant var att lära sig om github och hur företaget fungerar.
+
+test github actions
