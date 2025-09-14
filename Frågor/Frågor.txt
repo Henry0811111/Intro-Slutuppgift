@@ -1,0 +1,13 @@
+1.Vad är skillnaden mellan IaaS, PaaS och SaaS?
+IaaS hyr man en infrastruktur
+PaaS hyr man en plattform
+Saas använder man en färdig tjänst via webläsare
+2.Vad gör Git och vad är GitHub?
+Git är ett versionshanteringssystem som spåra ändringar i koden eller projektet och gör det möljligt att samarbetea med andra i projektet utan att skriva över varandras ändringar.
+Github är en molnbaserad platform som använder git för att lagra och hantera kodprojekt.
+3.Vad är ett informationssystem?
+informationssystem är ett kombination av människor, processer och teknologi som samlar in, bearbetar, lagrar och distribuerar information för att stödja beslutsfattande och verksamhetsprocesser inom en organisation.
+4.Vad är CIA-triaden?
+CIA-triaden beskriver de tre grundläggande principerna för informationssäkerhet: konfidentialitet (Confidentiality), integritet (Integrity) och tillgänglighet (Availability). 
+5.Vad är Continuous Integration (CI)?
+CI är en utvecklingspraxis där kod från flera utvecklare integreras ofta i en gemensam kodbas.
